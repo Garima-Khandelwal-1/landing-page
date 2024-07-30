@@ -1,2 +1,2 @@
-ocatnet
+ocatanet
 # landing-page
